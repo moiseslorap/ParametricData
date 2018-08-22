@@ -1,0 +1,24 @@
+{
+  "name": "parametricdata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moiseslorap/ParametricData.git"
+  },
+  "author": "Moises Lora and Andres Espinal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moiseslorap/ParametricData/issues"
+  },
+  "homepage": "https://github.com/moiseslorap/ParametricData#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.9"
+  }
+}
